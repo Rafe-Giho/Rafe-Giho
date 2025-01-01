@@ -45,41 +45,41 @@
     
   </tr>
       <td valign="top">
-      <h6>🛠️ Operating System</h6>
-      <img
-        src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"
-      />
-      <img
-        src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"
-      />
-      <img
-        src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white"
-      />
-      <img
-        src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white"
-      />
-      <img
-      src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"
-      />
-    </td>
-          <td valign="top">
-      <h6>🗂️ Database System</h6>
-      <img
-        src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"
-      />
-      <img
-        src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"
-      />
-      <img
-        src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=black"
-      />
-      <img
-        src="https://img.shields.io/badge/AWS%20DyanmoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"
-      />
-      <img
-        src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white"
-      />
-    </td>
+        <h6>🛠️ Operating System</h6>
+        <img
+          src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"
+        />
+        <img
+          src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white"
+        />
+        <img
+        src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"
+        />
+      </td>
+      <td valign="top">
+        <h6>🗂️ Database System</h6>
+        <img
+          src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=black"
+        />
+        <img
+          src="https://img.shields.io/badge/AWS%20DyanmoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white"
+        />
+      </td>
   <tr>
 
   </tr>
@@ -122,7 +122,6 @@
       <img
         src="https://img.shields.io/badge/Harbor-60B932?style=flat-square&logo=Harbor&logoColor=white"
       />
-      
     </td>
   </tr>
   <tr>
@@ -140,7 +139,6 @@
       <img
         src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"
       />
-
     </td>
     <td valign="top">
       <h6>🛠️ Development Tools and Environments</h6>
@@ -169,9 +167,7 @@
       src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"
     />
     </td>
-
   </tr>
-
 </table>
 <!--
 **Rafe-Giho/Rafe-Giho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
