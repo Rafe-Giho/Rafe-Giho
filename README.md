@@ -1,8 +1,6 @@
-
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20Giho's%20GitHub%20Page&descAlignY=51&descAlign=62"/>
 </p>
-
 
 <h2>🖥️ Technologies and Tools</h2>
 <p>Techs that I've used at least once...</p>
@@ -171,6 +169,7 @@
       src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"
     />
     </td>
+
   </tr>
 
 </table>
@@ -187,4 +186,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
