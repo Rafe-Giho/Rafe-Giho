@@ -176,6 +176,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS SAA"/>
   <img src="https://img.shields.io/badge/CKA-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="CKA"/>
+  <img src="https://img.shields.io/badge/정보보안기사-0E76A8?style=flat-square&logoColor=white" alt="정보보안기사"/>
   <img src="https://img.shields.io/badge/리눅스마스터2급-FCC624?style=flat-square&logo=linux&logoColor=black" alt="리눅스마스터2급" />
   <img src="https://img.shields.io/badge/네트워크관리사2급-1BA0D7?style=flat-square&logoColor=white" alt="네트워크관리사2급" />
   <img src="https://img.shields.io/badge/SQLD-4479A1?style=flat-square&logoColor=white" alt="SQLD" />
