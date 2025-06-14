@@ -177,9 +177,9 @@
 <h2>📚 Certifications</h2>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS SAA"/>
+  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20–%20Associate-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS SAA"/>
   <img src="https://img.shields.io/badge/CKA:%20Certified%20Kubernetes%20Administrator-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="CKA"/>
-  <img src="https://img.shields.io/badge/Terraform%20Associate-623CE4?style=flat-square&logo=terraform&logoColor=white" alt="Terraform Associate"/>
+  <img src="https://img.shields.io/badge/HashiCorp%20Certified:%20Terraform%20Associate%20(003)-623CE4?style=flat-square&logo=terraform&logoColor=white" alt="Terraform Associate"/>
     <br/>
   <img src="https://img.shields.io/badge/정보처리기사-0054A6?style=flat-square&logoColor=white" alt="정보처리기사"/>
   <img src="https://img.shields.io/badge/정보보안기사-0E76A8?style=flat-square&logoColor=white" alt="정보보안기사"/>
