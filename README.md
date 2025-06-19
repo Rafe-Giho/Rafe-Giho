@@ -59,7 +59,7 @@
           src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white"
         />
         <img
-        src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"
+        src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"
         />
       </td>
       <td valign="top">
