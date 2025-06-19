@@ -177,7 +177,7 @@
 </table>
 
 <br>
-<h2>🎓 Licenses & Certifications</h2>
+<h2>🎓 Certifications</h2>
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20–%20Associate-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS SAA"/>
