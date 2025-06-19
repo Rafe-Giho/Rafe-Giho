@@ -142,6 +142,9 @@
       <img
         src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"
       />
+      <img
+        src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"
+      />
     </td>
     <td valign="top">
       <h6>🛠️ Development Tools and Environments</h6>
