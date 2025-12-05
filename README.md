@@ -187,6 +187,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20–%20Associate-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS SAA"/>
+  <img src="https://img.shields.io/badge/AWS%20Machine%20Learning%20Engineer%20–%20Associate-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS MLA"/>
   <img src="https://img.shields.io/badge/AWS%20DevOps%20Engineer%20–%20Professional-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS DOP"/>
   <img src="https://img.shields.io/badge/CKA:%20Certified%20Kubernetes%20Administrator-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="CKA"/>
   <img src="https://img.shields.io/badge/HashiCorp%20Certified:%20Terraform%20Associate%20(003)-623CE4?style=flat-square&logo=terraform&logoColor=white" alt="Terraform Associate"/>
