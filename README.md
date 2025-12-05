@@ -92,6 +92,12 @@
       <img
         src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"
       />
+      <img
+        src="https://img.shields.io/badge/KT%20Cloud-F80000?style=flat-square&logo=Ktcloud&logoColor=white"
+      />
+      <img
+        src="https://img.shields.io/badge/NHN%20Cloud-2088FF?style=flat-square&logo=nhncloud&logoColor=white"
+      />
     </td>
     <td valign="top">
       <h6>🚀 CI/CD & Tools</h6>
