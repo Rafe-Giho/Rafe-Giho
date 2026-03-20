@@ -194,6 +194,7 @@
   <img src="https://img.shields.io/badge/HashiCorp%20Certified:%20Terraform%20Associate%20(003)-623CE4?style=flat-square&logo=terraform&logoColor=white" alt="Terraform Associate"/>
     <br/>
   <img src="https://img.shields.io/badge/NHN%20Cloud%20Certified%20Cloud%20Essentials-8ADFF1?style=flat-square&logo=NHN&logoColor=white" alt="NHN Cloud CES"/>
+  <img src="https://img.shields.io/badge/NHN%20Cloud%20Certified%20Cloud%20Architect%20Associate-8ADFF1?style=flat-square&logo=NHN&logoColor=white" alt="NHN Cloud CES"/>
   <img src="https://img.shields.io/badge/K%20–%20PaaS%20전문가-000000?style=flat-square&logo=K-PaaS&logoColor=white" alt="K-PaaS 전문가"/>
     <br/>
     
