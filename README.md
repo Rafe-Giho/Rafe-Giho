@@ -93,7 +93,7 @@
         src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"
       />
       <img
-        src="https://img.shields.io/badge/KT%20Cloud-F80000?style=flat-square&logo=Ktcloud&logoColor=white"
+        src="https://img.shields.io/badge/kt%20cloud-F80000?style=flat-square&logo=ktcloud&logoColor=white"
       />
       <img
         src="https://img.shields.io/badge/NHN%20Cloud-2088FF?style=flat-square&logo=nhncloud&logoColor=white"
@@ -195,7 +195,9 @@
     <br/>
   <img src="https://img.shields.io/badge/NHN%20Cloud%20Certified%20Cloud%20Essentials-8ADFF1?style=flat-square&logo=NHN&logoColor=white" alt="NHN Cloud CES"/>
   <img src="https://img.shields.io/badge/NHN%20Cloud%20Certified%20Cloud%20Architect%20Associate-8ADFF1?style=flat-square&logo=NHN&logoColor=white" alt="NHN Cloud CES"/>
-  <img src="https://img.shields.io/badge/K%20–%20PaaS%20전문가-000000?style=flat-square&logo=K-PaaS&logoColor=white" alt="K-PaaS 전문가"/>
+    <br/>
+  <img src="https://img.shields.io/badge/kt%20cloud%20Certified%20Associate-F80000?style=flat-square&logo=kt&logoColor=white" alt="kt cloud Certified Associate"/>
+  <img src="https://img.shields.io/badge/K%20–%20PaaS%20전문가-3E6E57?style=flat-square&logo=K-PaaS&logoColor=white" alt="K-PaaS 전문가"/>
     <br/>
     
   <img src="https://img.shields.io/badge/정보처리기사-0054A6?style=flat-square&logoColor=white" alt="정보처리기사"/>
